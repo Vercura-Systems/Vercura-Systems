@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=36BC9B&center=true&vCenter=true&width=500&lines=Mens+Agitat+Molem;Hi+👋,+I'm+Aniude+Chidera+Godswill+Eric;Full-Stack+Software+Engineer;Transforming+Ideas+Into+Scalable+Software" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1000&color=36BC9B&center=true&vCenter=true&width=500&lines=Mens%20Agitat%20Molem%3BHi%20%F0%9F%91%8B%2C%20I%27m%20Aniude%20Chidera%20Godswill%20Eric%3BFull-Stack%20Software%20Engineer%3BTransforming%20Ideas%20Into%20Scalable%20Software" alt="Typing Animation" />
+
 </p>
 
 <!-- Custom Banner -->
