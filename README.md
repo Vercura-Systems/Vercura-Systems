@@ -5,8 +5,11 @@
 
 <!-- Custom Banner -->
 <p align="center">
-  <img src="./assets/devcrd-banner.gif" alt="DevCrd Banner" width="100%" />
+  <img src="[./assets/devcrd-banner.gif](https://png.pngtree.com/thumb_back/fw800/background/20201019/pngtree-holographic-cyber-green-background-image_425133.jpg)" alt="DevCrd Banner" width="100%" />
 </p>
+  Mens Agitat Molem  
+    <small><i>“Mind Moves Matter”</i></small>
+  DevCrd
 
 ---
 
