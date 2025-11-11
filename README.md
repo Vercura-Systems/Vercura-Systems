@@ -10,7 +10,7 @@
 </p>
   Mens Agitat Molem  
     <small><i>“Mind Moves Matter”</i></small>
-  DevCrd
+  
 
 ---
 
