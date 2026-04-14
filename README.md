@@ -20,7 +20,7 @@
 > Passionate about building technology that empowers education and enterprise.  
 
 - 🌍 **Based in:** Lagos, Nigeria  
-- 💼 **Founder / Engineer @ DevCrd**  
+- 💼 **Founder / Engineer @ Vercura Systems**  
 - 🧠 **Focus Areas:** Cloud Infrastructure • DevOps • Web Performance • AI  
 - ⚙️ **Motto:** “Build systems that outlive trends.”  
 - ✉️ **Contact:** chideraaniude@gmail.com  
@@ -75,4 +75,4 @@
 
 ---
 
-<p align="center">💚 Made with precision, passion, and purpose.</p>
+<p align="center">Made with precision, passion, and purpose.</p>
