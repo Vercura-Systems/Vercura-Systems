@@ -37,20 +37,22 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vercura-Systems&show_icons=true&theme=github_dark&hide_border=true&title_color=36BC9B&icon_color=F87171" height="160em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vercura-Systems&show_icons=true&theme=github_dark&hide_border=true&title_color=36BC9B&icon_color=F87171" height="160em" />
   <img src="https://streak-stats.demolab.com?user=Vercura-Systems&theme=dark&border_radius=5&fire=F87171&ring=36BC9B&currStreakLabel=36BC9B&hide_border=true" height="160em" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vercura-Systems&layout=compact&theme=github_dark&hide_border=true&title_color=36BC9B&text_color=9CA3AF" height="160em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vercura-Systems&layout=compact&theme=github_dark&hide_border=true&title_color=36BC9B&text_color=9CA3AF" height="160em" />
 </div>
 
 ---
 
 ### 🏆 Achievements
+<!-- The public Vercel instance for github-profile-trophy is currently down. Re-enable this when it comes back online.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vercura-Systems&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
+-->
 
 ### 🐍 Contribution Graph
 <div align="center">
