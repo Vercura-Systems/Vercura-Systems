@@ -5,7 +5,7 @@
 
 <!-- Custom Banner -->
 <div align="center">
-  <img src="https://github.com/DevCrd/DevCrd/raw/main/assets/devcrd-banner.gif" alt="DevCrd Banner" width="100%" />
+  <img src="https://github.com/Vercura-Systems/Vercura-Systems/raw/main/assets/devcrd-banner.gif" alt="Vercura-Systems Banner" width="100%" />
   <br />
   <h3>Mens Agitat Molem</h3>
   <i>“Mind Moves Matter”</i>
@@ -37,32 +37,31 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCrd&show_icons=true&theme=github_dark&hide_border=true&title_color=36BC9B&icon_color=F87171" height="160em" />
-  <img src="https://streak-stats.demolab.com?user=DevCrd&theme=dark&border_radius=5&fire=F87171&ring=36BC9B&currStreakLabel=36BC9B&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vercura-Systems&show_icons=true&theme=github_dark&hide_border=true&title_color=36BC9B&icon_color=F87171" height="160em" />
+  <img src="https://streak-stats.demolab.com?user=Vercura-Systems&theme=dark&border_radius=5&fire=F87171&ring=36BC9B&currStreakLabel=36BC9B&hide_border=true" height="160em" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCrd&layout=compact&theme=github_dark&hide_border=true&title_color=36BC9B&text_color=9CA3AF" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vercura-Systems&layout=compact&theme=github_dark&hide_border=true&title_color=36BC9B&text_color=9CA3AF" height="160em" />
 </div>
 
 ---
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevCrd&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vercura-Systems&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
-<!-- 
 ### 🐍 Contribution Graph
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevCrd/DevCrd/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevCrd/DevCrd/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevCrd/DevCrd/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vercura-Systems/Vercura-Systems/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vercura-Systems/Vercura-Systems/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vercura-Systems/Vercura-Systems/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-*(Note: To enable this snake animation, you will need to set up the `snk` GitHub Action in this repository.)*
--->
+
+ 
 
 ---
 
@@ -82,7 +81,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevCrd&label=Profile%20Views&color=36BC9B&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vercura-Systems&label=Profile%20Views&color=36BC9B&style=for-the-badge" alt="profile views" />
   <br /><br />
   <p>Made with precision, passion, and purpose.</p>
 </div>
