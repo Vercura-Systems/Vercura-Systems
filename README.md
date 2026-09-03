@@ -15,13 +15,14 @@
 
 ### 📋 Executive Summary
 
-> Full-Stack Software Engineer with specialized expertise in **Software as a Service (SaaS)** architecture, cloud infrastructure, and enterprise system design. Dedicated to engineering robust systems that deliver performance, reliability, and long-term value.
+> Full-Stack Software Engineer with **5+ years of experience** building enterprise software, **Software as a Service (SaaS)** architectures, and EdTech platforms ([Educare](https://www.educare.school/)). Dedicated to engineering high-performance, resilient cloud systems that deliver long-term value.
 
 | Area | Focus & Details |
 | :--- | :--- |
 | 📍 **Location** | Lagos, Nigeria *(Operating Globally)* |
 | 💼 **Current Role** | Founder & Lead Systems Engineer @ **Vercura Systems** |
-| 🚀 **Core Domains** | Cloud Infrastructure • Distributed Systems • SaaS Architecture • Performance Engineering |
+| 🏫 **Track Record** | **5+ Years Experience** • Software Engineer @ [Educare](https://www.educare.school/) |
+| 🚀 **Core Domains** | EdTech Infrastructure • Cloud Systems • SaaS Architecture • Performance Engineering |
 | 🏛️ **Motto** | *“Mens Agitat Molem”* — The Mind Moves the Matter |
 
 ---
