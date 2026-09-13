@@ -17,7 +17,8 @@
     <a href="https://www.devcrd.xyz/"><img src="https://img.shields.io/badge/Official_Website-devcrd.xyz-0D5C50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" /></a>
     <a href="https://www.devcrd.xyz/cv"><img src="https://img.shields.io/badge/ATS_Résumé-Engineering_CV-2A9D8F?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
     <a href="https://www.linkedin.com/in/chidera-eric-godswill-aniude/"><img src="https://img.shields.io/badge/LinkedIn-Chidera_Aniude-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/AniudeChidera"><img src="https://img.shields.io/badge/X-@AniudeChidera-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://x.com/vercura_systems"><img src="https://img.shields.io/badge/X-@vercura__systems-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X (Vercura)" /></a>
+    <a href="https://x.com/AniudeChidera"><img src="https://img.shields.io/badge/X-@AniudeChidera-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X (Founder)" /></a>
     <a href="https://calendly.com/vercura"><img src="https://img.shields.io/badge/Strategy_Call-Book_Briefing-1A1814?style=for-the-badge&logo=calendly&logoColor=white" alt="Book Call" /></a>
   </p>
 </div>
@@ -156,6 +157,10 @@ A unified constellation of mission-critical systems architected and maintained i
     <tr>
       <td>✉️ <strong>Direct Contact</strong></td>
       <td><a href="mailto:chideraaniude@gmail.com">chideraaniude@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>𝕏 <strong>Official X (Twitter)</strong></td>
+      <td><a href="https://x.com/vercura_systems">@vercura_systems</a> &nbsp;•&nbsp; <a href="https://x.com/AniudeChidera">@AniudeChidera</a></td>
     </tr>
     <tr>
       <td>📱 <strong>WhatsApp / Mobile</strong></td>
